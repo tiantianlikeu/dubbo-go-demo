@@ -1,0 +1,6 @@
+./build/!Dockerfile
+./idea
+.idea
+go.sum
+.logs
+

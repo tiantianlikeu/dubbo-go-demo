@@ -1,0 +1,18 @@
+dubbo:
+  application:
+    name: go-client
+  registries:
+    demoZK:
+      protocol: zookeeper
+      timeout: 12000s
+      address: 127.0.0.1:2181
+      group: dubbo
+  consumer:
+    references:
+      UserApi:
+        interface: com.example.dubboconsumer.UserApi
+        group: dubbo
+        protocol: dubbo
+#  logger:
+#    zap-config:
+#      level: error
