@@ -42,7 +42,9 @@ git clone https://github.com/tiantianlikeu/dubbo-java-client.git
 
 ### 看看我
 ```text
-如果你觉得有用请给个小星星，如果你有建议请提个issue
+如果你觉得有用请给个小星星，如果你有建议请提个issue.
+一起共同学习~
+后续可能会增加server端的数据库连接，redis，rmq，dao的一些操作
 ```
 
 #### 项目结构说明
