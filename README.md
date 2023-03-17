@@ -1,7 +1,7 @@
 # dubbo-go-demo
 
 
-#### 提供go-server 支持java-client和go-client 同时调用
+#### 提供dubbo-go-server 支持java-client和go-client 同时调用
 
 ##### 注册中心使用zk，记得启动zk;如下，使用docker跑一个zk
 ```shell
