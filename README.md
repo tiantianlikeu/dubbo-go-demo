@@ -36,5 +36,5 @@ go run cmd/app.go
 ##### 运行java客户端
 下载java客户端代码
 ```shell
-git clone 
+git clone https://github.com/tiantianlikeu/dubbo-java-client.git
 ```
